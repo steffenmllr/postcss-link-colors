@@ -1,6 +1,6 @@
 {
   "name": "postcss-link-colors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "PostCSS plugin for normal, hover, active, visited, focus link colors",
   "keywords": [
     "postcss",
