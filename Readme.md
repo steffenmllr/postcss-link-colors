@@ -23,6 +23,9 @@ console.log(postcss([ require('postcss-link-colors') ]).process(css).css);
 
 You can also pass the classes in via `opts.classes`. See the tests for an example.
 
+## Similar projects
+* [jedmao/postcss-all-link-colors](https://github.com/jedmao/postcss-all-link-colors)
+
 ## Contributing
 
 Pull requests are welcome. If you send a PR or want to maintain the module,
