@@ -13,7 +13,7 @@ module.exports = postcss.plugin('postcss-link-colors', function (opts) {
     }
 
     return function (css) {
-        css.eachDecl(function(decl) {
+        css.walkDecls(function(decl) {
             if(decl.prop === 'linkColors') {
                 var colors = decl.value.split(',');
                 opts.classes.forEach(function(el, ix) {

@@ -1,4 +1,4 @@
-# [postcss][postcss]-link-colors [![Build Status](https://travis-ci.org/steffenmllr/postcss-link-colors.svg?branch=master)][ci] [![NPM version](https://badge.fury.io/js/postcss-link-colors.svg)][npm] [![Dependency Status](https://gemnasium.com/steffenmllr/postcss-link-colors.svg)][deps]
+# [postcss][postcss]-link-colors [![Build Status](https://travis-ci.org/steffenmllr/postcss-link-colors.svg?branch=master)][ci] [![NPM version](https://badge.fury.io/js/postcss-link-colors.svg)][npm]
 
 > Helper function for link states
 
@@ -36,6 +36,5 @@ I'll grant you repo access and publishing rights for npm.
 MIT © [Steffen Müller](http://steffen.io)
 
 [ci]:      https://travis-ci.org/steffenmllr/postcss-link-colors
-[deps]:    https://gemnasium.com/steffenmllr/postcss-link-colors
 [npm]:     http://badge.fury.io/js/postcss-link-colors
 [postcss]: https://github.com/steffenmllr/postcss-link-colors

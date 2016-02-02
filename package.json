@@ -16,11 +16,11 @@
     "url": "https://github.com/steffenmllr/postcss-link-colors.git"
   },
   "dependencies": {
-    "postcss": "4.x"
+    "postcss": "5.x"
   },
   "devDependencies": {
-    "tap-spec": "^4.0.0",
-    "tape": "^4.0.0"
+    "tap-spec": "^4.1.1",
+    "tape": "^4.4.0"
   },
   "scripts": {
     "test": "node test.js | tap-spec"
